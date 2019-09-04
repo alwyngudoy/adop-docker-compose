@@ -8,7 +8,7 @@ declare -A templates
 templates['example']=https://github.com/Accenture/adop-cartridge-skeleton.git
 # TODO actually need a node template!
 templates['node']=https://github.com/Accenture/adop-cartridge-skeleton.git
-templates['java']=https://github.com/Accenture/adop-cartridge-java.git
+templates['java']=https://github.com/alwyngudoy/adop-cartridge-java.git
 templates['docker']=https://github.com/Accenture/adop-cartridge-docker.git
 templates['chef']=https://github.com/Accenture/adop-cartridge-chef.git
 
